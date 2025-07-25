@@ -15,7 +15,8 @@ I am an aspiring AML & marketing analyst with a strong foundation in **complianc
 ---
 
 ### 📂 Projects Showcase:
-- [KYC Sentinel Risk Scoring Dashboard](https://github.com/YourGitHubUsername/KYC-Sentinel-Risk-Scoring-AML-Compliance-Dashboard)  
+- [KYC Sentinel Risk Scoring Dashboard](https://github.com/YourGitHubUsername/KYC-Sentinel-Risk-Scoring-AML-Compliance-Dashboard)
+- [-AML-Transaction-Monitoring-Enhanced-Due-Diligence-EDD-Project](https://github.com/SamikshaMishra300/-AML-Transaction-Monitoring-Enhanced-Due-Diligence-EDD-Project)
 
 ---
 
